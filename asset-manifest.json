@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/isBirthdayLucky/static/css/main.b3547adf.chunk.css",
+    "main.js": "/isBirthdayLucky/static/js/main.df8a54ad.chunk.js",
+    "runtime-main.js": "/isBirthdayLucky/static/js/runtime-main.6b46941d.js",
+    "static/js/2.2e0fb70a.chunk.js": "/isBirthdayLucky/static/js/2.2e0fb70a.chunk.js",
+    "static/js/3.c648c80c.chunk.js": "/isBirthdayLucky/static/js/3.c648c80c.chunk.js",
+    "index.html": "/isBirthdayLucky/index.html",
+    "static/js/2.2e0fb70a.chunk.js.LICENSE.txt": "/isBirthdayLucky/static/js/2.2e0fb70a.chunk.js.LICENSE.txt",
+    "static/media/birthday.c489da93.png": "/isBirthdayLucky/static/media/birthday.c489da93.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b46941d.js",
+    "static/js/2.2e0fb70a.chunk.js",
+    "static/css/main.b3547adf.chunk.css",
+    "static/js/main.df8a54ad.chunk.js"
+  ]
+}
